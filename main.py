@@ -1,7 +1,6 @@
 #########################################################################################################
 # Author: Timothy Fye
 # Title: File to read data in from CSV document
-# All rights reserved
 #########################################################################################################
 import read_data_from_excel # import get_orders
 import read_data_from_csv   # import get_orders
